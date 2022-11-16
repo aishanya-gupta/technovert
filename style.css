@@ -47,3 +47,10 @@ main div p {
     margin-bottom: 25px;
     font-size: 15px;
 }
+.rss{
+    margin-left: auto;
+}
+.rss img{
+    width: 25px;
+    margin-top: 3px;
+}
